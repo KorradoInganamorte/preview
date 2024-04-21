@@ -11,7 +11,7 @@ const Home = () => {
           <div>
             <p className="text-white text-7xl mb-[3.2rem]">JOIN MY COMMUNITY <br /> & SOCIAL MEDIA</p>
 
-            <a href="https://https://t.me/+CqqTrvCMN1o0YzUy" className="flex items-center bg-white p-[1.2rem_2rem] rounded-[1rem] cursor-pointer">
+            <a href="https://t.me/KI_notes" className="flex items-center bg-white p-[1.2rem_2rem] rounded-[1rem] cursor-pointer">
               <img className="w-[6.4rem] h-[6.4rem] mr-[3.2rem]" src="/images/avatar.png" alt="avatar" />
               <p className="text-black text-lg leading-normal">Korrado Inganamorte <br /> Petr Istomin</p>
             </a>
